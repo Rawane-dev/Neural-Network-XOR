@@ -1,4 +1,4 @@
-# XOR Neural Network with TensorFlow
+# XOR Neural Network
 
 A simple neural network built with TensorFlow/Keras that learns the XOR logical operation.
 
